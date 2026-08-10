@@ -33,4 +33,3 @@ Aplikasi web untuk mengelola kegiatan sekolah dalam satu tempat. Dibangun sebaga
 5. **Siswa & Orang Tua** — Lihat informasi lewat dashboard: pengumuman, kehadiran, dan daftar tugas.
 
 Semua menu disesuaikan otomatis dengan peran pengguna — yang tidak berhak tidak akan melihat menu tersebut.
-# School-Management-Saas
