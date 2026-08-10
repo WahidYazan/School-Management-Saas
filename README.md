@@ -1,3 +1,14 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License"></a>
+</p>
+
+---
+
 # School SaaS — Sistem Manajemen Sekolah
 
 Aplikasi web untuk mengelola kegiatan sekolah dalam satu tempat. Dibangun sebagai layanan SaaS sehingga satu aplikasi bisa dipakai oleh banyak sekolah sekaligus.
@@ -33,3 +44,11 @@ Aplikasi web untuk mengelola kegiatan sekolah dalam satu tempat. Dibangun sebaga
 5. **Siswa & Orang Tua** — Lihat informasi lewat dashboard: pengumuman, kehadiran, dan daftar tugas.
 
 Semua menu disesuaikan otomatis dengan peran pengguna — yang tidak berhak tidak akan melihat menu tersebut.
+
+## Tentang Laravel
+
+Laravel adalah framework aplikasi web dengan sintaks yang ekspresif dan elegan. Framework ini dibangun di atas komponen Symfony untuk memberikan pengalaman pengembangan yang menyenangkan dan kreatif.
+
+## Lisensi
+
+Project ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
